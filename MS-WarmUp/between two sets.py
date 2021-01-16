@@ -1,5 +1,4 @@
-a=[2,3,6 ]
-b=[42,84]
+
 def getTotalX(a, b):
     def gcd(x, y):
         while(y):
@@ -54,6 +53,6 @@ def getTotalX(a, b):
     print (l, len(l))
       
 
-a=[2,3,6 ]
+a=[2,3,6]
 b=[42,84]
 getTotalX(a, b)
