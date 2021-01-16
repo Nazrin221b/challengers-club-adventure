@@ -27,13 +27,4 @@ def convert(h,m):
         print(words[m], minutes, add, words[h])
 
 
-    
-
-
-
-
-    
-    
-
-
-convert(h,m)
+    convert(h,m)
