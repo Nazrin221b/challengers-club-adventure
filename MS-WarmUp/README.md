@@ -1,1 +1,1 @@
-Hackerrank Problems
+HackerRank Problems
